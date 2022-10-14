@@ -291,7 +291,7 @@ const Work = () => {
                   transition={{ duration: 0.25, ease: 'easeInOut', staggerChildren: 0.5 }}
                   className="app__work-hover app__flex"
                 >
-                  <a href="blank" target="_blank" rel="noreferrer">
+                  <a href="https://beausnftmarketplace.com/" target="_blank" rel="noreferrer">
 
                     <motion.div
                       whileInView={{ scale: [0, 1] }}
@@ -302,7 +302,7 @@ const Work = () => {
                       <AiFillEye />
                     </motion.div>
                   </a>
-                  <a href="blank" target="_blank" rel="noreferrer">
+                  <a href="https://github.com/BeauC2481/nftmarketplace" target="_blank" rel="noreferrer">
                     <motion.div
                       whileInView={{ scale: [0, 1] }}
                       whileHover={{ scale: [1, 0.90] }}
@@ -336,7 +336,7 @@ const Work = () => {
                   transition={{ duration: 0.25, ease: 'easeInOut', staggerChildren: 0.5 }}
                   className="app__work-hover app__flex"
                 >
-                  <a href="blank" target="_blank" rel="noreferrer">
+                  <a href="https://www.beauscryptochat.com" target="_blank" rel="noreferrer">
 
                     <motion.div
                       whileInView={{ scale: [0, 1] }}
@@ -347,7 +347,7 @@ const Work = () => {
                       <AiFillEye />
                     </motion.div>
                   </a>
-                  <a href="blank" target="_blank" rel="noreferrer">
+                  <a href="https://github.com/BeauC2481/cryptochat" target="_blank" rel="noreferrer">
                     <motion.div
                       whileInView={{ scale: [0, 1] }}
                       whileHover={{ scale: [1, 0.90] }}
@@ -447,7 +447,7 @@ const Work = () => {
                     <AiFillEye />
                   </motion.div>
                 </a>
-                <a href="blank" target="_blank" rel="noreferrer">
+                <a href="https://github.com/BeauC2481/portfolio" target="_blank" rel="noreferrer">
                   <motion.div
                     whileInView={{ scale: [0, 1] }}
                     whileHover={{ scale: [1, 0.90] }}
@@ -490,7 +490,7 @@ const Work = () => {
                 transition={{ duration: 0.25, ease: 'easeInOut', staggerChildren: 0.5 }}
                 className="app__work-hover app__flex"
               >
-                <a href="blank" target="_blank" rel="noreferrer">
+                <a href="https://beausnftmarketplace.com/" target="_blank" rel="noreferrer">
 
                   <motion.div
                     whileInView={{ scale: [0, 1] }}
@@ -501,7 +501,7 @@ const Work = () => {
                     <AiFillEye />
                   </motion.div>
                 </a>
-                <a href="blank" target="_blank" rel="noreferrer">
+                <a href="https://github.com/BeauC2481/nftmarketplace" target="_blank" rel="noreferrer">
                   <motion.div
                     whileInView={{ scale: [0, 1] }}
                     whileHover={{ scale: [1, 0.90] }}
@@ -535,7 +535,7 @@ const Work = () => {
                 transition={{ duration: 0.25, ease: 'easeInOut', staggerChildren: 0.5 }}
                 className="app__work-hover app__flex"
               >
-                <a href="blank" target="_blank" rel="noreferrer">
+                <a href="https://www.beauscryptochat.com" target="_blank" rel="noreferrer">
 
                   <motion.div
                     whileInView={{ scale: [0, 1] }}
@@ -546,7 +546,7 @@ const Work = () => {
                     <AiFillEye />
                   </motion.div>
                 </a>
-                <a href="blank" target="_blank" rel="noreferrer">
+                <a href="https://github.com/BeauC2481/cryptochat" target="_blank" rel="noreferrer">
                   <motion.div
                     whileInView={{ scale: [0, 1] }}
                     whileHover={{ scale: [1, 0.90] }}
@@ -646,3 +646,4 @@ export default AppWrap(
   'work',
   'app__primarybg',
 );
+
