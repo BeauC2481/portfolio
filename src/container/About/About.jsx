@@ -7,7 +7,7 @@ import './About.scss';
 
 const About = () => (
   <>
-    <h2 className="head-text">I Know that <span>Good Design</span> <br />means  <span>Good Business</span></h2>
+    <h2 className="head-text">I Know that <span>Good Code</span> <br />means  <span>Good Design</span></h2>
 
     <div className="app__profiles">
       <motion.div
